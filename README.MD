@@ -1,4 +1,4 @@
-# List of parameters defined in UNESCO Educational database#
+# List of parameters defined in UNESCO Educational database
 ## Variables
 
 * Out-of-school children of primary school age, both sexes (number)
