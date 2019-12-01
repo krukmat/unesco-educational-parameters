@@ -1,4 +1,4 @@
-##List of parameters defined in UNESCO Educational database##
+#List of parameters defined in UNESCO Educational database#
 
 * Out-of-school children of primary school age, both sexes (number)
 * Out-of-school children of primary school age, female (number)
